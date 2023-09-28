@@ -18,11 +18,11 @@ function App () {
       <h2><em>Exponents</em></h2>
 
       <div className="container">
-          <ExponentTwo />
-          <ExponentThree />
-          <ExponentFour />
-          <ExponentFive />
-          <ExponentSix />
+        <ExponentTwo />
+        <ExponentThree />
+        <ExponentFour />
+        <ExponentFive />
+        <ExponentSix />
       </div>
     </div>
   );
