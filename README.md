@@ -148,7 +148,7 @@ Afterward, make sure to update the `<Counter />` and `<Exponent... />` component
 
 If you have correctly passed the `count` value to all components in the previous step, the count should be visible in all components. 
 
-The `Counter` component's functionality is currently broken because the state variable has been separated from the handler functions.
+The `Counter` component's functionality is currently broken because the state variable has been separated from the handler functions:
 
 <br>
 
@@ -160,7 +160,7 @@ The `Counter` component's functionality is currently broken because the state va
 
 <br>
 
-Now, as we separated the state variable from the handler functions, the counter is now broken. To fix this, you'll need to move the `increment` and `decrement` logic from `Counter` to the parent `App` component, where the state variable resides. 
+As we separated the state variable from the handler functions, the counter is broken and pressing buttons <kbd>+</kbd> and <kbd>-</kbd> doesn't anymore increment the counter. To fix this, you'll need to move the `increment` and `decrement` logic from `Counter` to the parent `App` component, where the state variable resides. 
 
 
 
