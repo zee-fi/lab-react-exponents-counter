@@ -1,10 +1,10 @@
 import "./App.css";
 import Counter from "./components/Counter";
-import PowerTwo from "./components/PowerTwo";
-import PowerThree from "./components/PowerThree";
-import PowerFour from "./components/PowerFour";
-import PowerFive from "./components/PowerFive";
-import PowerSix from "./components/PowerSix";
+import ExponentTwo from "./components/ExponentTwo";
+import ExponentThree from "./components/ExponentThree";
+import ExponentFour from "./components/ExponentFour";
+import ExponentFive from "./components/ExponentFive";
+import ExponentSix from "./components/ExponentSix";
 
 
 function App () {
@@ -16,15 +16,16 @@ function App () {
 
       <br />
       <h2><em>Exponents</em></h2>
-			<div className="container">
-				<PowerTwo />
-				<PowerThree />
-				<PowerFour />
-				<PowerFive />
-				<PowerSix />
-			</div>
-		</div>
-	);
+
+      <div className="container">
+          <ExponentTwo />
+          <ExponentThree />
+          <ExponentFour />
+          <ExponentFive />
+          <ExponentSix />
+      </div>
+</div>
+);
 }
 
 export default App;
