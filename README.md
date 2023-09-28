@@ -183,6 +183,16 @@ Once you are done moving the logic to the `App`, pass the `increment` and `decre
 
 
 
+
+<br>
+
+<p align="center">
+  <img src="https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/labs/lab-react-exponents-counter/Iteration3.2.png" alt="Iteration 1" />
+
+
+
+</p>
+
 <br>
 
 
