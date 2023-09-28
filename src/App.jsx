@@ -24,8 +24,8 @@ function App () {
           <ExponentFive />
           <ExponentSix />
       </div>
-</div>
-);
+    </div>
+  );
 }
 
 export default App;
