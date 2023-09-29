@@ -11,7 +11,7 @@
   Upon completion of this exercise, you will be able to:
 
   - Plan and organize the data flow between the components
-  - Lift the up to the common ancestor component in an existing React app
+  - Lift the state up to the common ancestor component in an existing React app
   - Pass functions as props from a parent component to a child component
 
 
